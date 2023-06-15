@@ -1,16 +1,7 @@
 # Yolov5 object detection model deployment using flask
 
 
-### Steps to run Code
-- Clone the repository.
-```
-git clone https://github.com/noorkhokhar99/yolov5-flask-object-detection.git
-```
-- Goto the cloned folder.
-```
-cd yolov5-flask-object-detection
 
-```
 - Upgrade pip with mentioned command below.
 ```
 pip install --upgrade pip
